@@ -17,7 +17,8 @@ This repository contains the source code for a Car Rental Website, designed to f
 - **JavaScript**
 
 ## Screenshots
-![Home Page](././img/home.png)
+![Home Image](car%20rental%20website/img/home.png)
+
 ![Requirments](img/requirments.jpg)
 ![Cars](img/cars.jpg)
 ![Customer Reviews](img/reviews.jpg)
