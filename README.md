@@ -18,10 +18,18 @@ This repository contains the source code for a Car Rental Website, designed to f
 
 ## Screenshots
 ![Home Image](car%20rental%20website/img/home.png)
-![Requirments](car%20rental%20website/img/requirments.jpg)
-![Cars](car%20rental%20website/img/cars.jpg)
-![Customer Reviews](car%20rental%20website/img/reviews.jpg)
-![Newsletter Subscription](car%20rental%20website/img/newsletter.jpg)
+
+![Requirements Image](car%20rental%20website/img/requirements.png)
+
+![Cars Image](car%20rental%20website/img/cars.png)
+
+![Additional Cars Image](car%20rental%20website/img/cars%20(2).png)
+
+![About Image](car%20rental%20website/img/Aboutt.png)
+
+![Reviews Image](car%20rental%20website/img/Reviews.png)
+
+![Newsletter Image](car%20rental%20website/img/newsletter.png)
 
 ## Installation
 1. Clone the repository:
