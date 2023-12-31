@@ -17,10 +17,11 @@ This repository contains the source code for a Car Rental Website, designed to f
 - **JavaScript**
 
 ## Screenshots
-![Home Page](img/home-page.png)
-![Car Listings](img/car-listings.png)
-![Customer Reviews](img/customer-reviews.png)
-![Newsletter Subscription](img/newsletter.png)
+![Home Page](img/home.jpg)
+![Requirments](img/requirments.jpg)
+![Cars](img/cars.jpg)
+![Customer Reviews](img/reviews.jpg)
+![Newsletter Subscription](img/newsletter.jpg)
 
 ## Installation
 1. Clone the repository:
