@@ -34,7 +34,7 @@ This repository contains the source code for a Car Rental Website, designed to f
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone <repository_URL>
+    git clone (https://github.com/lanasaka/Car-Rental-Website.git)
     ```
 2. Open the `index.html` file in your browser to view the website.
 
@@ -45,8 +45,6 @@ This repository contains the source code for a Car Rental Website, designed to f
 ## Contributing
 Contributions are welcome! Fork the repository and create a pull request with your changes or enhancements.
 
-## License
-This project is licensed under the [MIT License](link-to-license).
 
 ## Author
-Your Name
+Lana SAKA
